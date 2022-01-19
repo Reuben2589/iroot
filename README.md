@@ -1,0 +1,1 @@
+# irootMagisk/docs/changes.md
